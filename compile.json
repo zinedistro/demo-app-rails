@@ -6,7 +6,7 @@
     "builders": [
         {
             "type": "docker",
-            "image": "justincampbell/rails-compile",
+            "image": "rails:4.2.5",
             "commit": true
 
         }
