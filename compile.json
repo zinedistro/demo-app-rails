@@ -27,7 +27,7 @@
         },
         {
             "type": "file",
-            "source": "/tmp/slug.targ.gz",
+            "source": "/tmp/slug.tar.gz",
             "destination": "slug.tar.gz",
             "direction": "download"
         }
